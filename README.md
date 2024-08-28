@@ -1,10 +1,10 @@
-#Title: Role of Artificial Intelligence in Agriculture: An Analysis and Advancements with Focus on Plant Diseases
+# Title: Role of Artificial Intelligence in Agriculture: An Analysis and Advancements with Focus on Plant Diseases
 
-#Overview:
+# Overview:
 
 Artificial intelligence (AI) is transforming the agriculture industry by enhancing crop yields, improving resource allocation, and reducing environmental impact. This paper explores the role of AI in agriculture, with a focus on plant disease detection and management.
 
-#Key aspects:
+# Key aspects:
 
 1. Introduction to AI in agriculture: Overview of AI applications in agriculture, including precision farming, crop monitoring, and decision support systems.
 2. Plant disease detection using AI: Analysis of AI-powered techniques for detecting plant diseases, such as machine learning, deep learning, and computer vision.
