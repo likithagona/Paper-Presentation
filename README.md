@@ -12,5 +12,5 @@ Artificial intelligence (AI) is transforming the agriculture industry by enhanci
 4. Case studies and examples: Real-world examples of AI applications in plant disease management, highlighting successes and challenges.
 5. Future directions and challenges: Discussion of future research directions, challenges, and opportunities for AI in agriculture, particularly in plant disease management.
 
-#Keywords: 
+# Keywords: 
 Artificial intelligence, agriculture, plant disease detection, machine learning, precision farming.
